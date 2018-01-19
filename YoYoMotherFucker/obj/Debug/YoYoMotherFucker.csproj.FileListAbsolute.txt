@@ -1,0 +1,7 @@
+C:\Users\elupi\source\repos\YoYoMotherFucker\YoYoMotherFucker\bin\Debug\YoYoMotherFucker.exe.config
+C:\Users\elupi\source\repos\YoYoMotherFucker\YoYoMotherFucker\bin\Debug\YoYoMotherFucker.exe
+C:\Users\elupi\source\repos\YoYoMotherFucker\YoYoMotherFucker\bin\Debug\YoYoMotherFucker.pdb
+C:\Users\elupi\source\repos\YoYoMotherFucker\YoYoMotherFucker\obj\Debug\YoYoMotherFucker.csprojResolveAssemblyReference.cache
+C:\Users\elupi\source\repos\YoYoMotherFucker\YoYoMotherFucker\obj\Debug\YoYoMotherFucker.csproj.CoreCompileInputs.cache
+C:\Users\elupi\source\repos\YoYoMotherFucker\YoYoMotherFucker\obj\Debug\YoYoMotherFucker.exe
+C:\Users\elupi\source\repos\YoYoMotherFucker\YoYoMotherFucker\obj\Debug\YoYoMotherFucker.pdb
